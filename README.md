@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# kill all
 
-## Setup
+kills literally everyone in the server (if u have perms ofc!)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+1.19.2
